@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "SHIN DY"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**System Engineer** Japan/South Korea"
+  bio              : "**System Engineer**"
+  bio              : "South Korea/Japan"
   location         : "Tokyo"
   email            :
   links:
